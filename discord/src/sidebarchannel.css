@@ -1,0 +1,13 @@
+.sidebarchannel:hover{
+    color: azure;
+    background-color: #40464b;
+}
+.sidebarchannel{
+    padding-left: 10px;
+}
+.sidebarchannel>h4{
+    color: gray;
+    cursor: pointer;
+    padding-left: 10px;
+    padding: 8px;
+}

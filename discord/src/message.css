@@ -1,0 +1,14 @@
+.message{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+.messageInfo{
+    margin: 10px;
+}
+.M_time{
+    color: gray;
+    margin-left: 15px;
+    font-size: x-small;
+}
